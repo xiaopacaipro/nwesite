@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '冲冲冲'
+theme = 'ananke'
+publishDir = "docs"
