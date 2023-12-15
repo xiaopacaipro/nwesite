@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://xiaopacaipro.github.io/nwesite/categories/</loc>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://xiaopacaipro.github.io/nwesite/posts/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://xiaopacaipro.github.io/nwesite/tags/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://xiaopacaipro.github.io/nwesite/</loc>
   </url><url>
-    <loc>https://example.org/posts/%E6%96%B0%E9%97%BB%E7%A8%BF1/</loc>
+    <loc>https://xiaopacaipro.github.io/nwesite/posts/%E6%96%B0%E9%97%BB%E7%A8%BF1/</loc>
   </url>
 </urlset>

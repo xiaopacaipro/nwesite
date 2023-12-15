@@ -1,5 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://xiaopacaipro.github.io/nwesite/'
 languageCode = 'en-us'
 title = '冲冲冲'
 theme = 'ananke'
 publishDir = "docs"
+canonifyurls = true
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
