@@ -1,6 +1,6 @@
 baseURL = 'https://xiaopacaipro.github.io/nwesite/'
 languageCode = 'en-us'
-title = '冲冲冲'
+title = '看见金城兰州'
 theme = 'ananke'
 publishDir = "docs"
 canonifyurls = true
