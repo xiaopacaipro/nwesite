@@ -2,20 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaopacaipro.github.io/nwesite/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/posts/</loc>
+    <loc>https://example.org/posts/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/</loc>
+    <loc>https://example.org/posts/%E7%AC%AC%E4%B8%89%E7%AF%87/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/posts/%E6%96%B0%E9%97%BB%E7%A8%BF3/</loc>
+    <loc>https://example.org/posts/%E7%AC%AC%E4%BA%94%E7%AF%87/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/posts/%E6%96%B0%E9%97%BB%E7%A8%BF1/</loc>
+    <loc>https://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/posts/%E6%96%B0%E9%97%BB%E7%A8%BF4/</loc>
+    <loc>https://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
   </url><url>
-    <loc>https://xiaopacaipro.github.io/nwesite/posts/%E6%96%B0%E9%97%BB%E7%A8%BF2/</loc>
+    <loc>https://example.org/posts/%E7%AC%AC%E5%85%AD%E7%AF%87/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/posts/%E7%AC%AC%E5%9B%9B%E7%AF%87/</loc>
   </url>
 </urlset>

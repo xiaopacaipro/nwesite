@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
+publishDir = "docs"
 title = '看见金城兰州'
 theme = 'ananke'
 [markup]
