@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://xiaopacaipro.github.io/nwesite/'
 languageCode = 'en-us'
 publishDir = "docs"
 title = '看见金城兰州'
