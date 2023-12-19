@@ -1,8 +1,9 @@
 ---
 title: "看见金城兰州"
 
-description: "The last theme you'll ever need. Maybe."
+description: "Approach a city, feel the charm of a city."
 cascade:
-  featured_image: 'themes/ananke/static/images/羊皮筏子.jpg'
+  featured_image: '/images/lanzhou.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+金城兰州，一座充满魅力的城市。漫步在兰州的街头巷尾，仿佛置身于历史的长河中，感受着这座城市厚重的文化底蕴。
+
