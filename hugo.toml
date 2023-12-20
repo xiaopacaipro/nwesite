@@ -2,6 +2,7 @@ baseURL = 'https://xiaopacaipro.github.io/nwesite/'
 languageCode = 'en-us'
 publishDir = "docs"
 title = '看见金城兰州'
+canonifyurls = true
 theme = 'ananke'
 [markup]
 defaultMarkdownHandler = "goldmark"
